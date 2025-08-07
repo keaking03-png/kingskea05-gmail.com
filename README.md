@@ -157,10 +157,7 @@ When you're working with the local version of your app in the codespace, it'll u
 🧰 You'll find the Fastly CLI commands we use under the hood in the `helpers/publish.sh` script.
 
 💻 If you check the right-hand side of the **Terminal** you'll find multiple processes – this is to run the commands.
-
-### Extensions
-
-This project uses the following extensions from the dev community! 🙌
+T### Extensionshnois project uses the following extensions from the dev community! 🙌
 
 * [VSCode Action Buttons Ext](https://marketplace.visualstudio.com/items?itemName=jkearins.action-buttons-ext)
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
@@ -178,4 +175,4 @@ You can also [clone the example website](https://github.com/glitchdotcom/compute
 🛟 Get help on the <a href="https://community.fastly.com" target="_blank">community forum</a>.
 
 <img src="https://github.com/user-attachments/assets/17a8af4a-100f-416d-a1cf-f84174262138" width="100px"/>
-
+https://filmhub-137.preview.emergentagent.com/
